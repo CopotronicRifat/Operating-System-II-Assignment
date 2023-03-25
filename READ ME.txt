@@ -1,0 +1,60 @@
+CS5323 - DESIGN AND IMPLEMENTATION OF OPERATING SYSTEM II
+ASSIGNMENT 00
+SUBMITTED BY - S M RAFIUDDIN
+CWID: A20387294
+
+
+
+HOW TO RUN THE CODE:
+
+1. LOGIN TO CSX SERVER.
+2. UPLOAD THE CODE TO THE SERVER THAT YOU HAVE LOGGED IN.
+3. COMPILE THE CODE IN THE CMD USING THE FOLLOWING COMMAND-
+
+>> gcc A00.c
+
+4. THEN EXECUTE THE CODE USING THE FOLLOWING COMMAND-
+
+>> ./a.out 11
+
+(HERE, 11 IS THE ARGUMENT OF THE CODE, YOU CAN CHANGE IT TO ANY NUMBER FROM 1 TO 39.)
+
+
+OUTPUT FOR THE GIVEN INPUT:
+
+From Child 1 init() n=11
+From Child 1 n=34
+From Child 1 n=17
+From Child 1 n=52
+From Child 1 n=26
+From Child 1 n=13
+From Child 1 n=40
+From Child 1 n=20
+From Child 1 n=10
+From Child 1 n=5
+From Child 1 n=16
+From Child 1 n=8
+From Child 1 n=4
+From Child 1 n=2
+From Child 1 n=1
+
+From Child 2 init() n=14
+From Child 2 n=7
+From Child 2 n=22
+From Child 2 n=11
+From Child 2 n=34
+From Child 2 n=17
+From Child 2 n=52
+From Child 2 n=26
+From Child 2 n=13
+From Child 2 n=40
+From Child 2 n=20
+From Child 2 n=10
+From Child 2 n=5
+From Child 2 n=16
+From Child 2 n=8
+From Child 2 n=4
+From Child 2 n=2
+From Child 2 n=1
+Children complete
+
